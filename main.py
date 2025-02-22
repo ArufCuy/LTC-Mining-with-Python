@@ -20,7 +20,7 @@ logging.basicConfig(
 
 POOL_ADDRESS = "ltc.viabtc.com"
 POOL_PORT = 3333
-WALLET = "ltc1q9lqhxasss9wnjznfkyqca7pmv77utfz8ds0mwa"
+WALLET = "your_wallet"
 WORKER_NAME = "arufkuy.worker1"
 
 # Kernel Scrypt OpenCL untuk Litecoin
