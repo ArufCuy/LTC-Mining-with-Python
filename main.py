@@ -1,3 +1,6 @@
+# Discord https://discord.com/invite/CkmzkYXqZ5
+# Mining LiteCoin Tools By ArufCuy
+
 import socket
 import json
 import time
